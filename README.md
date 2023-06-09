@@ -7,8 +7,20 @@ St Catharine's College, Cambridge
 
 Part III Project in Althorpe group.
 
-## Directories
 ---
-- `code`: Main programs that run the simulations
-- `results`: All plots and data from the simulations
+
+## Setup and Installation
+```
+{
+python setup.py
+}
+```
+
+## Directories
+
+- `engine`: Main programs that run the simulations
+- `tools`: Secondary functions
 - `scripts`: Plotters for the data produced by my code etc.
+- `data`: Results and plots from path integral simulations
+
+
