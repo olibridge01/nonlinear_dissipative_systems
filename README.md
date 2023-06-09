@@ -10,6 +10,7 @@ Part III Project in Althorpe group.
 ---
 
 ## Setup and Installation
+Running the following command will install the required Python packages for executing this code:
 ```
 python setup.py
 ```
