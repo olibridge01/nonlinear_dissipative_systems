@@ -11,9 +11,7 @@ Part III Project in Althorpe group.
 
 ## Setup and Installation
 ```
-{
 python setup.py
-}
 ```
 
 ## Directories
